@@ -1,0 +1,1001 @@
+Date,Product Category,Region,Units Sold,Sales Revenue,Profit
+2023-01-01,Beauty,South,34,646.16,211.54
+2023-01-01,Clothing,South,9,593.58,178.39
+2023-01-01,Books,South,4,889.62,32.99
+2023-01-01,Beauty,North,19,324.11,59.27
+2023-01-01,Electronics,South,4,184.4,49.82
+2023-01-01,Books,North,26,327.79,23.05
+2023-01-02,Beauty,West,45,422.72,29.85
+2023-01-02,Beauty,South,22,975.77,159.09
+2023-01-02,Home Appliances,East,3,208.19,224.33
+2023-01-03,Electronics,East,13,706.59,33.66
+2023-01-04,Home Appliances,West,5,257.94,69.98
+2023-01-04,Electronics,West,46,161.61,171.41
+2023-01-04,Home Appliances,North,40,952.38,180.62
+2023-01-04,Clothing,South,48,228.7,28.11
+2023-01-05,Beauty,North,33,722.87,299.35
+2023-01-05,Home Appliances,South,21,168.03,268.07
+2023-01-05,Clothing,North,17,337.66,161.79
+2023-01-05,Electronics,North,15,347.23,271.7
+2023-01-05,Books,East,36,633.56,225.26
+2023-01-06,Electronics,South,13,357.14,63.02
+2023-01-06,Electronics,West,47,130.31,264.63
+2023-01-06,Home Appliances,North,46,110.28,169.46
+2023-01-06,Beauty,South,31,540.45,70.81
+2023-01-07,Books,East,30,419.79,188.47
+2023-01-07,Beauty,West,15,883.47,179.52
+2023-01-08,Clothing,South,3,801.19,297.54
+2023-01-08,Home Appliances,North,4,658.43,91.3
+2023-01-08,Clothing,East,2,163.93,66.93
+2023-01-09,Home Appliances,East,21,429.11,272.26
+2023-01-09,Clothing,West,15,756.41,11.85
+2023-01-09,Electronics,West,3,731.93,129.56
+2023-01-10,Clothing,West,35,444.52,191.44
+2023-01-10,Electronics,North,17,173.03,284.32
+2023-01-12,Books,North,4,693.14,223.16
+2023-01-12,Home Appliances,West,47,803.76,244.81
+2023-01-12,Home Appliances,North,23,119.72,34.67
+2023-01-13,Electronics,North,22,513.63,299.12
+2023-01-13,Books,East,35,489.49,79.75
+2023-01-13,Home Appliances,East,19,493.3,19.41
+2023-01-13,Books,West,14,888.69,92.52
+2023-01-14,Clothing,North,24,517.69,77.98
+2023-01-14,Home Appliances,South,4,824.05,127.57
+2023-01-14,Electronics,East,23,970.99,175.92
+2023-01-14,Books,South,1,309.26,170.99
+2023-01-15,Books,East,40,249.17,174.32
+2023-01-15,Beauty,South,46,806.67,146.58
+2023-01-15,Clothing,South,23,174.46,14.02
+2023-01-16,Clothing,North,45,434.0,109.39
+2023-01-17,Home Appliances,South,38,807.59,89.82
+2023-01-18,Clothing,West,30,878.77,138.21
+2023-01-19,Electronics,South,3,649.49,26.54
+2023-01-19,Beauty,East,11,812.4,123.61
+2023-01-20,Beauty,South,5,950.0,125.13
+2023-01-20,Home Appliances,North,37,295.9,291.57
+2023-01-20,Electronics,South,24,775.24,44.79
+2023-01-21,Clothing,South,6,472.28,122.32
+2023-01-21,Clothing,East,31,511.93,299.87
+2023-01-22,Beauty,East,23,481.0,173.53
+2023-01-22,Beauty,North,33,844.76,16.88
+2023-01-22,Home Appliances,South,16,764.74,17.24
+2023-01-23,Beauty,East,5,390.72,63.73
+2023-01-23,Books,West,49,646.06,206.14
+2023-01-25,Home Appliances,North,37,117.22,244.88
+2023-01-25,Home Appliances,South,4,840.14,93.29
+2023-01-25,Home Appliances,East,24,539.05,206.93
+2023-01-26,Electronics,South,25,705.49,258.6
+2023-01-26,Home Appliances,North,42,944.17,128.14
+2023-01-26,Home Appliances,North,48,161.52,96.21
+2023-01-27,Beauty,North,36,826.36,21.42
+2023-01-28,Home Appliances,South,12,333.91,101.02
+2023-01-28,Beauty,North,9,245.5,110.78
+2023-01-28,Books,West,10,607.07,241.61
+2023-01-28,Home Appliances,South,23,688.72,72.74
+2023-01-28,Electronics,West,14,495.77,62.43
+2023-01-29,Clothing,South,25,612.59,182.51
+2023-01-29,Books,East,24,285.63,141.0
+2023-01-30,Home Appliances,North,32,983.01,128.81
+2023-01-31,Electronics,South,44,266.74,273.68
+2023-02-02,Electronics,South,10,901.13,109.21
+2023-02-02,Beauty,South,48,667.22,44.28
+2023-02-02,Home Appliances,North,15,432.35,57.28
+2023-02-03,Beauty,South,24,721.8,50.6
+2023-02-03,Beauty,South,38,897.48,48.62
+2023-02-03,Electronics,East,6,773.37,296.96
+2023-02-03,Electronics,East,18,382.49,155.02
+2023-02-04,Books,East,46,576.69,182.86
+2023-02-04,Beauty,East,49,934.4,79.69
+2023-02-04,Clothing,East,14,978.41,206.76
+2023-02-04,Clothing,East,24,546.63,125.33
+2023-02-04,Beauty,South,11,482.37,183.58
+2023-02-05,Books,East,18,264.55,270.13
+2023-02-05,Electronics,South,21,150.93,205.2
+2023-02-05,Electronics,West,43,333.59,224.27
+2023-02-05,Home Appliances,West,39,845.7,211.09
+2023-02-06,Electronics,East,19,493.9,251.39
+2023-02-06,Books,West,11,418.98,189.56
+2023-02-06,Beauty,West,11,307.37,21.39
+2023-02-07,Books,South,23,515.54,49.28
+2023-02-07,Beauty,East,9,362.31,228.03
+2023-02-08,Electronics,North,48,794.01,206.46
+2023-02-08,Clothing,South,8,223.43,15.84
+2023-02-08,Books,West,42,292.97,217.27
+2023-02-08,Home Appliances,East,16,400.64,85.35
+2023-02-08,Books,West,49,506.16,57.17
+2023-02-08,Beauty,East,33,317.35,120.82
+2023-02-08,Clothing,West,23,194.81,145.19
+2023-02-09,Electronics,East,4,350.78,117.37
+2023-02-10,Books,North,34,962.01,155.44
+2023-02-10,Clothing,North,22,706.72,273.66
+2023-02-10,Books,West,34,669.15,247.94
+2023-02-11,Clothing,West,26,288.27,270.53
+2023-02-11,Clothing,West,28,646.98,171.37
+2023-02-11,Clothing,North,49,434.32,100.65
+2023-02-12,Beauty,West,19,639.37,49.21
+2023-02-12,Clothing,South,25,842.27,287.71
+2023-02-13,Home Appliances,North,15,746.5,25.3
+2023-02-13,Home Appliances,West,45,823.43,182.75
+2023-02-13,Electronics,South,27,363.14,174.07
+2023-02-13,Beauty,South,25,434.57,190.58
+2023-02-14,Home Appliances,South,36,964.12,295.23
+2023-02-15,Beauty,West,44,293.42,237.48
+2023-02-15,Electronics,West,31,876.7,151.57
+2023-02-15,Home Appliances,East,19,855.1,118.67
+2023-02-16,Electronics,North,45,907.63,153.91
+2023-02-16,Electronics,East,20,182.25,36.06
+2023-02-16,Books,West,28,683.65,261.01
+2023-02-16,Home Appliances,West,17,416.1,259.81
+2023-02-16,Electronics,North,35,695.52,61.37
+2023-02-17,Beauty,South,29,705.21,144.95
+2023-02-17,Beauty,West,40,977.81,36.51
+2023-02-17,Electronics,East,35,736.95,134.69
+2023-02-18,Books,North,26,246.73,167.82
+2023-02-18,Home Appliances,South,13,741.89,220.13
+2023-02-19,Home Appliances,East,18,793.14,284.68
+2023-02-20,Electronics,North,17,982.33,240.21
+2023-02-20,Home Appliances,East,22,743.59,241.76
+2023-02-20,Books,West,9,929.18,175.38
+2023-02-20,Electronics,East,46,756.08,278.67
+2023-02-20,Books,East,20,564.28,123.71
+2023-02-20,Electronics,North,26,619.03,46.81
+2023-02-21,Clothing,East,46,453.21,164.16
+2023-02-21,Electronics,West,44,317.78,40.29
+2023-02-21,Books,North,43,746.87,209.9
+2023-02-22,Clothing,West,17,908.13,166.97
+2023-02-22,Home Appliances,South,29,971.68,14.7
+2023-02-22,Electronics,East,27,132.42,126.93
+2023-02-22,Beauty,South,21,249.17,179.11
+2023-02-22,Beauty,East,30,683.78,169.09
+2023-02-22,Books,West,41,321.94,57.21
+2023-02-22,Electronics,West,21,380.68,203.68
+2023-02-23,Beauty,North,41,341.68,248.75
+2023-02-23,Home Appliances,East,13,272.43,187.71
+2023-02-23,Clothing,East,27,381.5,130.48
+2023-02-23,Beauty,South,49,159.82,281.42
+2023-02-23,Electronics,South,25,361.04,163.68
+2023-02-23,Clothing,West,23,339.02,90.46
+2023-02-23,Books,West,35,392.77,284.56
+2023-02-24,Home Appliances,West,43,851.93,46.39
+2023-02-25,Home Appliances,West,3,975.77,227.46
+2023-02-25,Home Appliances,North,19,862.65,179.6
+2023-02-26,Books,West,25,418.84,195.88
+2023-02-27,Clothing,South,12,823.18,177.32
+2023-02-27,Electronics,West,14,884.27,56.8
+2023-02-27,Books,South,47,734.1,133.97
+2023-02-27,Books,East,11,437.92,135.5
+2023-02-27,Home Appliances,East,12,113.86,185.74
+2023-02-27,Home Appliances,West,8,950.26,75.62
+2023-02-28,Home Appliances,North,6,279.29,42.36
+2023-03-01,Clothing,West,22,643.27,247.33
+2023-03-01,Books,East,48,149.17,150.37
+2023-03-02,Beauty,West,17,835.28,191.45
+2023-03-02,Beauty,West,8,615.35,146.8
+2023-03-03,Electronics,North,37,569.31,85.3
+2023-03-03,Home Appliances,West,6,709.25,41.33
+2023-03-03,Books,North,26,601.11,244.56
+2023-03-03,Beauty,South,49,155.98,250.98
+2023-03-04,Clothing,North,48,660.17,11.99
+2023-03-04,Clothing,South,32,261.43,261.17
+2023-03-04,Beauty,North,28,833.45,158.4
+2023-03-04,Electronics,North,2,859.28,104.77
+2023-03-06,Clothing,South,28,684.39,13.74
+2023-03-06,Books,South,34,590.03,227.84
+2023-03-06,Electronics,East,40,392.06,33.23
+2023-03-07,Home Appliances,East,28,917.11,282.11
+2023-03-07,Electronics,South,8,662.15,38.12
+2023-03-08,Clothing,North,23,476.75,24.27
+2023-03-09,Clothing,South,36,641.4,270.41
+2023-03-09,Beauty,East,13,151.28,265.13
+2023-03-10,Electronics,East,43,742.65,30.12
+2023-03-10,Clothing,West,15,245.23,187.95
+2023-03-10,Electronics,East,35,773.55,133.66
+2023-03-10,Books,West,41,550.32,210.69
+2023-03-11,Clothing,South,29,327.95,198.14
+2023-03-11,Electronics,East,41,276.78,221.5
+2023-03-13,Clothing,South,11,997.87,51.34
+2023-03-13,Clothing,West,46,550.36,134.7
+2023-03-14,Clothing,South,3,822.38,158.98
+2023-03-15,Electronics,North,3,254.52,281.07
+2023-03-16,Beauty,North,39,433.85,297.2
+2023-03-16,Books,East,45,877.99,61.92
+2023-03-16,Clothing,North,19,832.71,104.81
+2023-03-16,Clothing,North,6,614.13,108.38
+2023-03-17,Home Appliances,East,32,726.79,141.71
+2023-03-17,Clothing,North,49,490.96,202.51
+2023-03-17,Home Appliances,West,2,724.55,77.78
+2023-03-19,Books,West,11,276.99,85.79
+2023-03-19,Clothing,West,17,860.38,32.38
+2023-03-19,Beauty,West,27,350.53,87.95
+2023-03-21,Electronics,South,42,435.28,148.28
+2023-03-22,Home Appliances,West,21,115.25,255.95
+2023-03-22,Home Appliances,East,10,620.47,202.42
+2023-03-22,Home Appliances,West,43,633.84,106.92
+2023-03-22,Electronics,North,46,808.79,291.63
+2023-03-23,Electronics,South,4,556.35,287.8
+2023-03-24,Home Appliances,East,12,900.57,230.4
+2023-03-24,Clothing,East,46,910.86,284.33
+2023-03-25,Clothing,North,27,854.12,148.76
+2023-03-26,Clothing,South,6,842.87,96.02
+2023-03-27,Books,North,49,630.51,268.21
+2023-03-27,Clothing,North,8,271.1,174.71
+2023-03-27,Home Appliances,East,14,229.67,142.97
+2023-03-29,Beauty,East,21,790.81,18.83
+2023-03-30,Electronics,East,45,979.31,13.97
+2023-03-30,Clothing,East,11,635.62,162.17
+2023-03-31,Books,West,49,901.37,120.48
+2023-03-31,Home Appliances,North,18,468.7,38.03
+2023-03-31,Electronics,South,47,537.52,286.19
+2023-03-31,Home Appliances,South,4,243.54,138.79
+2023-04-01,Beauty,East,47,858.99,126.42
+2023-04-02,Electronics,East,35,419.43,17.31
+2023-04-02,Electronics,South,44,476.5,88.49
+2023-04-02,Clothing,South,1,239.35,232.89
+2023-04-02,Electronics,North,26,795.63,86.99
+2023-04-03,Home Appliances,South,2,334.21,296.33
+2023-04-03,Clothing,North,13,461.7,176.92
+2023-04-04,Electronics,East,23,178.32,101.91
+2023-04-04,Electronics,West,33,279.34,184.26
+2023-04-05,Clothing,West,1,306.84,226.11
+2023-04-05,Home Appliances,South,7,970.33,279.82
+2023-04-05,Books,South,7,117.23,273.04
+2023-04-05,Books,South,30,370.94,169.17
+2023-04-05,Electronics,East,38,872.22,285.2
+2023-04-06,Books,West,43,927.58,97.95
+2023-04-06,Clothing,West,19,768.59,221.35
+2023-04-06,Books,West,2,810.36,213.18
+2023-04-06,Books,West,33,964.56,177.29
+2023-04-06,Books,South,19,459.13,148.77
+2023-04-07,Beauty,North,44,547.79,58.78
+2023-04-07,Home Appliances,West,30,980.67,179.14
+2023-04-08,Beauty,North,9,903.3,55.48
+2023-04-08,Books,West,19,450.31,91.37
+2023-04-08,Clothing,North,27,431.51,27.99
+2023-04-09,Clothing,North,3,733.33,24.67
+2023-04-09,Home Appliances,West,3,694.91,62.54
+2023-04-09,Beauty,West,14,146.5,37.65
+2023-04-09,Beauty,West,34,133.81,254.95
+2023-04-09,Beauty,North,41,418.41,177.76
+2023-04-09,Electronics,North,35,301.86,290.07
+2023-04-09,Beauty,West,21,667.83,164.12
+2023-04-09,Electronics,West,11,128.03,176.42
+2023-04-09,Beauty,North,26,175.2,270.4
+2023-04-10,Books,East,43,343.73,95.07
+2023-04-10,Home Appliances,West,39,824.58,88.87
+2023-04-10,Electronics,West,30,474.85,69.29
+2023-04-10,Beauty,North,30,706.28,179.82
+2023-04-11,Electronics,South,45,734.91,216.52
+2023-04-11,Clothing,East,12,619.41,56.75
+2023-04-11,Beauty,West,15,275.65,129.1
+2023-04-11,Electronics,East,15,550.54,57.68
+2023-04-11,Home Appliances,North,19,358.72,171.3
+2023-04-13,Beauty,West,38,956.28,297.67
+2023-04-13,Home Appliances,West,17,628.24,241.28
+2023-04-13,Beauty,West,20,287.99,233.14
+2023-04-13,Home Appliances,North,24,679.73,145.23
+2023-04-14,Beauty,South,41,358.87,123.65
+2023-04-14,Clothing,West,9,826.02,185.02
+2023-04-15,Books,North,33,163.44,263.35
+2023-04-15,Beauty,South,34,489.11,30.64
+2023-04-16,Beauty,North,26,115.8,91.67
+2023-04-16,Electronics,East,22,649.01,206.18
+2023-04-16,Clothing,West,29,823.97,62.46
+2023-04-17,Books,South,16,401.75,60.58
+2023-04-17,Clothing,North,41,961.12,151.31
+2023-04-18,Home Appliances,East,47,529.21,24.6
+2023-04-18,Electronics,North,40,169.28,21.64
+2023-04-19,Electronics,West,24,300.13,65.08
+2023-04-19,Books,North,18,752.51,270.24
+2023-04-21,Home Appliances,East,31,700.49,73.99
+2023-04-21,Electronics,North,26,734.63,124.84
+2023-04-21,Clothing,North,34,875.98,259.14
+2023-04-21,Electronics,West,21,156.31,35.46
+2023-04-21,Clothing,West,34,584.22,205.72
+2023-04-22,Books,West,23,631.57,282.17
+2023-04-22,Clothing,East,4,661.37,287.45
+2023-04-22,Clothing,South,6,956.3,176.77
+2023-04-22,Clothing,South,23,570.26,254.82
+2023-04-23,Beauty,North,11,421.41,200.36
+2023-04-23,Books,East,2,289.71,16.54
+2023-04-23,Clothing,North,9,955.84,128.25
+2023-04-23,Clothing,East,6,911.75,17.47
+2023-04-23,Home Appliances,East,1,607.67,217.28
+2023-04-23,Home Appliances,West,44,236.84,100.5
+2023-04-23,Books,North,30,784.91,280.79
+2023-04-24,Electronics,North,37,893.52,245.62
+2023-04-24,Clothing,South,30,614.57,53.28
+2023-04-25,Beauty,North,30,244.42,164.24
+2023-04-26,Electronics,East,19,746.61,107.86
+2023-04-26,Home Appliances,South,47,263.45,87.12
+2023-04-26,Books,East,16,933.57,111.74
+2023-04-27,Electronics,West,24,683.49,51.61
+2023-04-27,Home Appliances,South,6,282.37,191.35
+2023-04-28,Home Appliances,West,27,120.18,204.43
+2023-04-28,Beauty,West,21,336.92,207.94
+2023-04-28,Electronics,North,17,430.65,82.08
+2023-04-28,Electronics,South,1,269.69,106.27
+2023-04-29,Electronics,North,10,372.18,203.97
+2023-04-29,Home Appliances,West,35,945.16,75.76
+2023-04-30,Electronics,South,40,741.36,126.06
+2023-04-30,Books,North,34,879.49,176.85
+2023-05-01,Clothing,North,7,421.33,148.43
+2023-05-01,Electronics,South,32,660.37,92.83
+2023-05-02,Books,South,18,451.93,16.07
+2023-05-02,Beauty,East,6,624.63,256.34
+2023-05-02,Beauty,West,5,768.03,48.33
+2023-05-02,Clothing,South,24,431.84,125.38
+2023-05-02,Home Appliances,East,5,349.31,170.51
+2023-05-02,Clothing,North,32,403.49,56.96
+2023-05-03,Electronics,North,26,782.9,205.99
+2023-05-04,Books,South,2,632.02,171.54
+2023-05-04,Books,North,3,735.97,104.06
+2023-05-05,Clothing,South,8,201.97,145.63
+2023-05-06,Home Appliances,South,48,449.04,262.85
+2023-05-06,Books,West,28,661.6,173.73
+2023-05-06,Beauty,North,42,855.82,279.37
+2023-05-06,Clothing,South,38,298.77,112.85
+2023-05-06,Beauty,East,49,265.1,222.97
+2023-05-06,Beauty,South,47,240.59,160.69
+2023-05-07,Clothing,West,28,706.62,207.11
+2023-05-07,Clothing,East,18,712.1,27.38
+2023-05-07,Beauty,North,39,232.55,134.61
+2023-05-08,Clothing,South,17,218.54,152.84
+2023-05-08,Clothing,West,26,724.26,164.08
+2023-05-08,Electronics,North,13,558.0,184.71
+2023-05-08,Electronics,North,18,246.43,188.05
+2023-05-09,Home Appliances,South,26,888.29,249.1
+2023-05-09,Beauty,South,2,276.25,229.54
+2023-05-09,Home Appliances,East,17,467.34,47.98
+2023-05-10,Electronics,West,21,690.97,131.12
+2023-05-10,Beauty,West,31,135.04,169.69
+2023-05-11,Electronics,North,34,480.37,204.62
+2023-05-11,Electronics,South,42,290.79,188.39
+2023-05-11,Books,West,33,403.61,206.44
+2023-05-11,Beauty,South,40,711.66,43.81
+2023-05-12,Clothing,North,20,665.58,245.98
+2023-05-13,Books,West,3,148.01,221.95
+2023-05-13,Books,East,11,601.6,24.12
+2023-05-13,Clothing,West,36,310.78,101.57
+2023-05-13,Clothing,West,46,892.88,174.54
+2023-05-13,Clothing,North,23,886.66,210.19
+2023-05-14,Books,North,3,166.69,53.92
+2023-05-14,Electronics,East,37,817.96,41.61
+2023-05-14,Home Appliances,East,21,979.58,291.22
+2023-05-15,Beauty,West,24,410.67,210.41
+2023-05-15,Books,West,9,192.26,14.81
+2023-05-15,Home Appliances,South,7,211.93,279.45
+2023-05-16,Beauty,North,28,283.88,43.39
+2023-05-16,Books,West,13,774.98,25.82
+2023-05-16,Beauty,East,22,226.72,26.13
+2023-05-17,Home Appliances,West,9,695.5,88.06
+2023-05-17,Electronics,East,43,863.24,34.56
+2023-05-18,Electronics,South,42,707.31,177.72
+2023-05-19,Home Appliances,East,2,803.19,71.61
+2023-05-19,Books,South,20,314.33,284.27
+2023-05-20,Clothing,South,44,373.55,104.31
+2023-05-20,Books,North,11,512.49,242.69
+2023-05-21,Home Appliances,South,5,894.3,26.98
+2023-05-21,Home Appliances,North,23,579.25,119.57
+2023-05-22,Books,West,25,928.67,105.36
+2023-05-22,Electronics,South,37,669.05,114.54
+2023-05-23,Books,West,3,279.09,204.67
+2023-05-23,Electronics,East,18,795.53,159.72
+2023-05-23,Electronics,North,39,740.55,72.26
+2023-05-24,Books,West,13,625.34,149.57
+2023-05-24,Electronics,West,12,325.8,205.41
+2023-05-24,Books,West,45,563.44,99.25
+2023-05-24,Home Appliances,South,31,317.38,115.8
+2023-05-24,Books,North,18,100.01,275.37
+2023-05-24,Clothing,North,38,108.15,24.62
+2023-05-24,Home Appliances,North,19,528.7,131.56
+2023-05-25,Electronics,South,24,637.9,207.93
+2023-05-25,Home Appliances,North,49,744.76,112.4
+2023-05-25,Clothing,North,12,996.54,254.23
+2023-05-25,Books,West,15,174.05,280.2
+2023-05-25,Home Appliances,West,37,813.48,201.31
+2023-05-26,Clothing,North,44,486.05,124.82
+2023-05-26,Clothing,South,12,616.86,84.3
+2023-05-26,Electronics,South,22,342.56,138.13
+2023-05-27,Clothing,West,2,343.99,184.91
+2023-05-27,Clothing,North,33,696.74,124.6
+2023-05-27,Books,North,46,655.11,14.71
+2023-05-27,Home Appliances,South,22,556.23,275.76
+2023-05-27,Beauty,North,42,107.53,263.79
+2023-05-27,Beauty,West,25,605.87,21.67
+2023-05-28,Beauty,West,3,468.47,194.27
+2023-05-28,Books,West,21,164.04,73.93
+2023-05-28,Clothing,West,38,911.6,110.19
+2023-05-29,Home Appliances,East,27,415.47,33.25
+2023-05-30,Books,West,45,463.24,189.62
+2023-05-30,Books,East,23,508.59,124.13
+2023-05-30,Electronics,South,30,691.62,274.08
+2023-05-31,Clothing,South,21,354.23,251.55
+2023-05-31,Home Appliances,South,4,110.94,128.45
+2023-05-31,Clothing,North,41,922.41,263.13
+2023-05-31,Electronics,West,40,700.98,56.03
+2023-05-31,Books,South,49,901.77,221.76
+2023-06-01,Clothing,East,29,377.02,228.51
+2023-06-01,Home Appliances,South,37,206.65,248.85
+2023-06-01,Electronics,East,8,699.82,126.59
+2023-06-01,Electronics,South,44,865.31,158.07
+2023-06-01,Electronics,North,43,597.4,77.35
+2023-06-01,Clothing,East,2,372.64,243.57
+2023-06-02,Clothing,West,4,170.61,190.6
+2023-06-02,Books,West,34,160.75,201.23
+2023-06-03,Clothing,East,24,136.32,170.87
+2023-06-03,Home Appliances,West,39,369.45,98.86
+2023-06-03,Beauty,East,13,751.1,289.94
+2023-06-04,Books,South,8,146.65,26.44
+2023-06-04,Home Appliances,South,37,539.65,182.2
+2023-06-05,Beauty,North,22,704.04,246.17
+2023-06-06,Books,West,6,948.45,81.53
+2023-06-07,Electronics,South,27,742.89,292.66
+2023-06-07,Books,South,44,381.62,182.33
+2023-06-07,Electronics,South,48,122.67,272.23
+2023-06-09,Clothing,West,26,997.46,282.47
+2023-06-09,Home Appliances,South,48,458.05,143.15
+2023-06-09,Electronics,South,30,101.33,88.88
+2023-06-09,Books,North,40,238.32,56.82
+2023-06-09,Books,South,12,431.6,198.44
+2023-06-09,Beauty,West,5,634.2,201.03
+2023-06-09,Books,West,3,354.23,187.43
+2023-06-10,Home Appliances,South,38,820.0,71.23
+2023-06-10,Electronics,West,14,338.79,229.61
+2023-06-10,Electronics,South,28,835.1,237.16
+2023-06-10,Clothing,West,10,222.94,253.36
+2023-06-11,Beauty,East,15,217.07,11.21
+2023-06-11,Books,North,21,101.22,297.13
+2023-06-12,Clothing,East,21,625.4,56.47
+2023-06-12,Beauty,East,35,297.6,26.5
+2023-06-12,Home Appliances,North,12,508.91,236.15
+2023-06-12,Books,East,34,232.27,129.25
+2023-06-13,Electronics,East,20,378.83,207.84
+2023-06-13,Electronics,West,41,275.48,196.75
+2023-06-13,Books,West,37,691.06,282.86
+2023-06-14,Clothing,South,20,899.31,197.22
+2023-06-14,Books,East,39,452.67,112.87
+2023-06-14,Beauty,North,38,185.86,149.82
+2023-06-15,Electronics,North,31,290.47,75.15
+2023-06-16,Electronics,West,18,463.86,15.56
+2023-06-16,Beauty,West,43,839.25,178.7
+2023-06-17,Home Appliances,East,40,203.86,27.99
+2023-06-17,Home Appliances,East,5,942.65,166.69
+2023-06-18,Books,East,46,138.18,131.26
+2023-06-19,Home Appliances,East,46,337.85,68.44
+2023-06-19,Clothing,West,41,949.33,247.43
+2023-06-19,Home Appliances,South,2,146.79,112.9
+2023-06-19,Electronics,West,44,901.19,186.41
+2023-06-19,Books,West,29,759.43,266.96
+2023-06-19,Clothing,North,11,645.07,108.4
+2023-06-20,Books,West,23,983.03,29.5
+2023-06-21,Books,North,8,696.19,244.44
+2023-06-21,Beauty,North,5,257.7,251.76
+2023-06-21,Beauty,North,20,502.91,93.5
+2023-06-21,Home Appliances,North,23,761.0,215.74
+2023-06-22,Beauty,West,4,490.13,33.38
+2023-06-22,Electronics,East,21,436.53,249.06
+2023-06-22,Home Appliances,South,48,160.53,45.75
+2023-06-22,Books,East,38,869.48,70.56
+2023-06-22,Home Appliances,South,10,298.45,231.75
+2023-06-22,Beauty,North,27,603.15,228.99
+2023-06-23,Books,West,41,668.28,291.1
+2023-06-23,Books,South,41,325.42,230.45
+2023-06-24,Electronics,North,43,200.36,242.42
+2023-06-25,Clothing,South,18,939.63,77.81
+2023-06-25,Beauty,West,41,659.16,196.04
+2023-06-26,Home Appliances,East,37,296.84,68.67
+2023-06-26,Clothing,South,19,729.05,156.65
+2023-06-26,Clothing,East,15,421.2,47.21
+2023-06-26,Home Appliances,North,16,244.33,40.59
+2023-06-27,Electronics,North,45,808.65,221.39
+2023-06-27,Beauty,East,22,637.44,121.13
+2023-06-28,Beauty,South,49,144.98,125.86
+2023-06-28,Clothing,North,33,323.55,10.01
+2023-06-29,Electronics,South,47,341.71,268.29
+2023-06-29,Books,East,39,939.44,201.93
+2023-06-29,Books,North,49,767.48,293.2
+2023-06-29,Books,East,4,140.42,44.41
+2023-06-29,Clothing,East,12,457.85,256.67
+2023-06-30,Home Appliances,East,45,591.79,247.02
+2023-06-30,Home Appliances,North,38,567.3,213.5
+2023-07-01,Books,East,35,852.51,184.52
+2023-07-02,Books,West,10,947.01,17.45
+2023-07-02,Beauty,South,7,853.63,285.29
+2023-07-03,Clothing,West,36,729.68,113.08
+2023-07-03,Books,East,34,565.03,129.82
+2023-07-03,Beauty,East,21,709.78,251.46
+2023-07-04,Electronics,West,46,651.96,177.3
+2023-07-05,Home Appliances,West,34,917.41,183.84
+2023-07-05,Clothing,East,24,566.83,177.56
+2023-07-05,Clothing,East,21,320.82,114.0
+2023-07-06,Clothing,East,12,660.11,39.95
+2023-07-06,Books,North,38,495.29,34.95
+2023-07-06,Clothing,East,16,325.9,173.03
+2023-07-06,Books,West,47,267.52,77.1
+2023-07-06,Books,South,17,216.71,180.52
+2023-07-07,Home Appliances,South,9,554.32,140.52
+2023-07-07,Books,North,17,152.06,139.55
+2023-07-07,Beauty,North,9,358.67,91.5
+2023-07-08,Beauty,East,40,490.22,18.08
+2023-07-08,Books,North,44,489.46,183.1
+2023-07-09,Books,South,10,957.53,154.99
+2023-07-09,Clothing,East,33,802.34,281.29
+2023-07-09,Electronics,North,1,973.61,93.94
+2023-07-09,Electronics,East,45,587.58,273.33
+2023-07-09,Home Appliances,North,6,549.01,114.17
+2023-07-09,Home Appliances,West,36,152.28,120.13
+2023-07-10,Beauty,East,49,566.16,217.65
+2023-07-10,Home Appliances,South,47,876.38,262.5
+2023-07-10,Home Appliances,West,5,971.26,124.93
+2023-07-11,Clothing,West,32,536.08,198.32
+2023-07-11,Beauty,South,28,646.98,169.84
+2023-07-11,Home Appliances,West,33,563.51,48.63
+2023-07-11,Books,West,14,183.36,193.1
+2023-07-11,Clothing,East,45,526.53,180.52
+2023-07-11,Books,South,14,442.47,292.4
+2023-07-11,Clothing,East,17,622.86,206.49
+2023-07-13,Beauty,South,38,250.59,168.47
+2023-07-13,Electronics,East,29,860.61,263.89
+2023-07-13,Beauty,West,36,228.56,200.85
+2023-07-14,Beauty,South,37,822.53,150.3
+2023-07-14,Home Appliances,North,15,582.34,113.77
+2023-07-14,Home Appliances,West,35,562.47,201.9
+2023-07-15,Beauty,North,20,367.56,95.28
+2023-07-15,Electronics,North,36,267.08,298.71
+2023-07-16,Electronics,South,12,891.27,171.78
+2023-07-16,Books,West,28,169.27,185.48
+2023-07-17,Clothing,East,38,477.5,249.92
+2023-07-17,Electronics,West,33,955.41,118.3
+2023-07-17,Clothing,South,8,213.4,204.8
+2023-07-17,Electronics,West,27,389.5,70.63
+2023-07-18,Beauty,East,28,852.24,126.93
+2023-07-20,Clothing,West,47,925.74,88.77
+2023-07-20,Beauty,North,21,343.85,241.94
+2023-07-20,Beauty,West,11,284.21,265.01
+2023-07-21,Electronics,West,12,369.82,100.45
+2023-07-21,Clothing,South,41,392.76,23.22
+2023-07-21,Home Appliances,East,31,536.59,108.04
+2023-07-21,Beauty,South,36,823.42,280.5
+2023-07-22,Home Appliances,West,20,622.08,112.92
+2023-07-22,Books,East,27,257.61,259.02
+2023-07-22,Beauty,North,15,432.62,250.31
+2023-07-23,Beauty,West,39,764.85,276.01
+2023-07-24,Books,South,44,185.43,160.38
+2023-07-24,Beauty,East,30,347.76,126.79
+2023-07-25,Books,North,12,248.76,22.06
+2023-07-25,Books,North,37,213.0,102.09
+2023-07-26,Electronics,East,31,190.88,183.11
+2023-07-26,Beauty,East,35,853.41,101.46
+2023-07-26,Electronics,North,41,139.51,248.08
+2023-07-27,Electronics,West,35,957.0,59.57
+2023-07-27,Home Appliances,West,34,372.62,279.3
+2023-07-27,Electronics,East,16,863.58,110.28
+2023-07-31,Electronics,West,46,282.03,170.86
+2023-07-31,Electronics,West,30,375.82,218.85
+2023-07-31,Clothing,North,37,813.34,197.26
+2023-08-01,Beauty,East,6,161.84,192.73
+2023-08-01,Books,East,24,458.2,118.03
+2023-08-02,Books,East,4,962.14,96.98
+2023-08-02,Beauty,South,8,783.36,274.78
+2023-08-02,Beauty,West,34,976.04,223.04
+2023-08-03,Books,North,47,194.85,37.54
+2023-08-03,Electronics,East,7,908.7,109.58
+2023-08-03,Books,South,25,432.83,249.99
+2023-08-03,Home Appliances,North,4,348.69,296.64
+2023-08-03,Clothing,South,45,963.88,232.29
+2023-08-04,Beauty,West,29,818.46,67.61
+2023-08-04,Home Appliances,North,32,232.57,44.77
+2023-08-05,Beauty,North,1,526.83,197.99
+2023-08-05,Electronics,East,5,800.22,150.16
+2023-08-05,Books,South,22,772.7,53.64
+2023-08-05,Clothing,South,9,453.46,188.96
+2023-08-05,Home Appliances,South,2,872.89,179.81
+2023-08-05,Beauty,West,47,716.62,98.67
+2023-08-06,Home Appliances,North,21,112.37,127.91
+2023-08-06,Clothing,South,25,880.09,246.25
+2023-08-06,Home Appliances,South,22,826.27,109.75
+2023-08-06,Home Appliances,South,19,413.29,214.81
+2023-08-06,Electronics,South,35,763.68,131.54
+2023-08-08,Home Appliances,North,34,168.13,182.62
+2023-08-08,Books,East,3,900.22,138.35
+2023-08-08,Beauty,North,22,445.92,88.73
+2023-08-08,Books,South,30,316.36,43.74
+2023-08-08,Beauty,South,49,972.93,119.24
+2023-08-08,Electronics,East,44,382.44,249.52
+2023-08-08,Books,South,8,317.82,155.08
+2023-08-09,Books,West,9,654.67,213.61
+2023-08-10,Home Appliances,North,28,308.82,107.26
+2023-08-10,Beauty,North,24,513.05,271.08
+2023-08-10,Electronics,North,42,277.23,144.55
+2023-08-11,Home Appliances,North,35,101.79,154.46
+2023-08-11,Electronics,West,33,378.81,124.43
+2023-08-11,Books,North,15,843.14,255.38
+2023-08-11,Home Appliances,East,43,151.96,274.29
+2023-08-11,Books,South,13,589.83,193.78
+2023-08-12,Beauty,West,24,271.83,57.38
+2023-08-12,Clothing,South,4,191.62,201.92
+2023-08-12,Beauty,South,2,394.07,221.77
+2023-08-12,Electronics,West,45,822.7,16.4
+2023-08-13,Books,North,33,664.6,158.07
+2023-08-13,Books,South,33,485.83,253.86
+2023-08-13,Clothing,South,12,110.89,248.83
+2023-08-13,Home Appliances,South,28,555.36,32.27
+2023-08-14,Clothing,South,18,854.41,97.98
+2023-08-14,Beauty,West,33,781.06,147.78
+2023-08-14,Clothing,West,8,275.72,176.45
+2023-08-15,Beauty,East,17,239.43,245.44
+2023-08-15,Home Appliances,South,37,737.89,46.06
+2023-08-15,Clothing,North,22,317.7,135.81
+2023-08-15,Clothing,West,8,453.88,44.91
+2023-08-15,Home Appliances,East,12,582.0,193.39
+2023-08-16,Beauty,South,32,240.83,249.64
+2023-08-16,Home Appliances,West,14,799.34,50.06
+2023-08-17,Home Appliances,North,36,296.84,227.87
+2023-08-17,Clothing,East,38,894.69,77.67
+2023-08-17,Books,West,38,466.12,210.58
+2023-08-17,Books,South,42,750.46,90.35
+2023-08-17,Beauty,East,48,657.57,124.01
+2023-08-18,Clothing,South,27,928.9,77.13
+2023-08-18,Clothing,North,44,470.76,44.93
+2023-08-19,Books,North,20,794.46,177.51
+2023-08-19,Home Appliances,South,3,813.83,249.7
+2023-08-19,Clothing,South,39,449.35,269.71
+2023-08-19,Clothing,South,35,956.29,44.43
+2023-08-19,Electronics,North,32,554.96,266.99
+2023-08-21,Books,North,42,973.23,133.58
+2023-08-21,Home Appliances,North,27,970.16,293.72
+2023-08-21,Books,South,23,535.59,219.4
+2023-08-21,Books,East,14,894.62,240.91
+2023-08-21,Electronics,East,3,305.81,115.14
+2023-08-21,Electronics,North,40,261.33,167.86
+2023-08-21,Electronics,East,37,993.93,280.44
+2023-08-21,Beauty,East,8,512.59,77.01
+2023-08-22,Electronics,North,1,532.8,120.49
+2023-08-23,Books,North,38,601.19,106.09
+2023-08-23,Beauty,North,35,672.35,298.99
+2023-08-24,Electronics,East,41,990.51,229.83
+2023-08-24,Clothing,North,18,688.91,16.96
+2023-08-24,Clothing,North,42,680.35,78.87
+2023-08-25,Clothing,South,49,191.7,33.66
+2023-08-25,Clothing,West,28,159.13,27.92
+2023-08-25,Beauty,East,6,995.34,294.36
+2023-08-26,Beauty,West,19,289.46,59.83
+2023-08-26,Beauty,West,26,889.72,108.88
+2023-08-26,Books,West,6,727.49,252.13
+2023-08-27,Books,West,34,586.81,229.31
+2023-08-27,Beauty,North,25,232.23,72.06
+2023-08-27,Clothing,East,45,518.51,16.94
+2023-08-27,Electronics,South,19,725.18,63.49
+2023-08-27,Electronics,East,27,505.23,222.9
+2023-08-28,Home Appliances,West,6,802.33,22.16
+2023-08-28,Beauty,South,21,317.35,193.12
+2023-08-28,Clothing,North,8,261.42,205.88
+2023-08-29,Books,West,8,868.41,242.28
+2023-08-30,Electronics,West,34,816.62,27.28
+2023-08-30,Electronics,West,23,541.99,122.73
+2023-08-30,Home Appliances,East,15,967.15,110.07
+2023-08-30,Electronics,North,8,519.68,170.19
+2023-08-31,Home Appliances,South,10,983.06,60.03
+2023-08-31,Beauty,South,34,613.79,237.18
+2023-09-01,Books,East,21,113.22,234.1
+2023-09-03,Clothing,East,22,417.66,66.1
+2023-09-03,Beauty,West,24,956.34,95.79
+2023-09-04,Electronics,North,4,623.46,84.05
+2023-09-04,Clothing,East,44,584.5,251.14
+2023-09-04,Beauty,South,49,464.07,269.75
+2023-09-04,Beauty,West,22,684.56,293.68
+2023-09-04,Books,East,20,332.84,95.82
+2023-09-04,Electronics,North,27,227.1,67.6
+2023-09-06,Electronics,North,40,360.27,205.03
+2023-09-06,Home Appliances,West,49,509.65,48.57
+2023-09-06,Books,West,46,574.91,250.88
+2023-09-06,Home Appliances,South,13,127.02,11.87
+2023-09-07,Beauty,East,23,470.07,32.26
+2023-09-07,Clothing,West,41,705.58,207.09
+2023-09-07,Home Appliances,East,11,280.25,182.1
+2023-09-08,Books,East,11,344.75,185.26
+2023-09-08,Electronics,North,47,112.94,61.35
+2023-09-09,Beauty,North,22,804.88,252.03
+2023-09-09,Beauty,South,49,526.43,290.74
+2023-09-09,Home Appliances,East,10,108.98,286.82
+2023-09-09,Books,West,30,517.81,237.21
+2023-09-09,Books,South,47,788.99,119.92
+2023-09-09,Home Appliances,North,24,162.11,266.99
+2023-09-09,Home Appliances,North,49,991.61,168.61
+2023-09-10,Electronics,East,28,550.1,82.75
+2023-09-10,Electronics,West,31,384.06,140.22
+2023-09-10,Beauty,North,13,522.2,177.36
+2023-09-10,Electronics,South,47,150.56,186.07
+2023-09-10,Electronics,North,39,917.05,130.1
+2023-09-10,Books,East,14,261.33,34.22
+2023-09-11,Books,North,1,778.82,209.53
+2023-09-11,Beauty,West,5,373.78,176.18
+2023-09-11,Home Appliances,North,9,156.27,212.37
+2023-09-12,Books,West,5,354.25,200.87
+2023-09-12,Books,West,28,513.7,222.57
+2023-09-12,Home Appliances,East,7,786.07,183.81
+2023-09-13,Clothing,East,36,597.44,228.22
+2023-09-13,Beauty,South,1,269.13,166.92
+2023-09-14,Home Appliances,North,38,447.04,270.01
+2023-09-14,Clothing,South,21,168.62,168.54
+2023-09-14,Home Appliances,East,11,764.13,103.82
+2023-09-15,Home Appliances,West,19,341.97,276.34
+2023-09-15,Home Appliances,North,28,892.14,155.37
+2023-09-16,Electronics,East,9,286.37,287.85
+2023-09-16,Electronics,West,45,670.93,243.66
+2023-09-16,Home Appliances,West,11,424.38,196.13
+2023-09-16,Clothing,North,29,789.86,204.95
+2023-09-16,Books,West,28,700.16,22.78
+2023-09-17,Home Appliances,North,44,999.0,81.3
+2023-09-17,Books,North,37,363.98,289.37
+2023-09-18,Home Appliances,North,48,672.36,266.53
+2023-09-19,Books,East,29,182.86,70.99
+2023-09-19,Books,East,35,727.42,130.59
+2023-09-20,Beauty,South,41,215.08,135.08
+2023-09-21,Electronics,North,18,689.66,61.3
+2023-09-21,Books,East,11,856.1,79.33
+2023-09-21,Clothing,West,38,875.52,131.69
+2023-09-21,Electronics,West,44,569.17,187.32
+2023-09-21,Clothing,North,26,691.08,236.06
+2023-09-21,Books,West,20,704.33,224.01
+2023-09-22,Home Appliances,North,17,306.64,194.95
+2023-09-22,Books,East,48,567.13,18.73
+2023-09-24,Home Appliances,East,39,635.77,122.15
+2023-09-24,Clothing,South,33,585.19,52.47
+2023-09-25,Beauty,South,14,609.56,152.0
+2023-09-25,Clothing,West,38,522.99,63.54
+2023-09-25,Electronics,South,19,778.84,19.47
+2023-09-25,Books,East,26,484.84,113.41
+2023-09-25,Beauty,South,13,555.07,64.13
+2023-09-26,Beauty,West,45,708.42,255.6
+2023-09-27,Electronics,West,41,681.81,108.59
+2023-09-28,Home Appliances,South,42,121.24,85.7
+2023-09-28,Clothing,South,15,534.74,209.84
+2023-09-28,Electronics,North,6,424.05,54.8
+2023-09-28,Books,South,45,431.01,60.31
+2023-09-29,Beauty,South,32,566.21,294.93
+2023-09-29,Electronics,North,35,107.49,84.99
+2023-09-30,Books,South,12,947.52,261.26
+2023-09-30,Beauty,South,2,593.97,20.06
+2023-09-30,Books,South,20,622.63,54.6
+2023-09-30,Clothing,North,20,872.94,289.41
+2023-10-01,Books,East,32,577.84,249.79
+2023-10-01,Home Appliances,East,22,408.38,92.15
+2023-10-02,Beauty,East,41,195.32,90.02
+2023-10-02,Clothing,West,13,883.6,155.17
+2023-10-02,Clothing,South,18,751.1,53.92
+2023-10-04,Books,East,24,786.2,47.91
+2023-10-04,Clothing,West,28,199.39,126.78
+2023-10-04,Beauty,West,14,365.77,137.07
+2023-10-04,Books,West,17,742.98,124.0
+2023-10-04,Clothing,West,35,410.81,123.94
+2023-10-04,Clothing,East,1,624.87,70.93
+2023-10-05,Electronics,North,48,923.09,168.96
+2023-10-06,Electronics,West,18,192.31,138.48
+2023-10-06,Books,West,25,731.03,73.43
+2023-10-07,Electronics,East,1,928.69,49.03
+2023-10-07,Clothing,East,9,311.48,243.64
+2023-10-07,Home Appliances,East,28,904.68,124.63
+2023-10-07,Beauty,South,39,535.67,182.61
+2023-10-07,Home Appliances,South,14,662.39,54.63
+2023-10-08,Books,North,9,241.55,106.98
+2023-10-08,Clothing,North,25,854.34,204.07
+2023-10-09,Electronics,North,14,997.51,93.57
+2023-10-09,Beauty,North,29,543.31,197.22
+2023-10-09,Electronics,West,8,695.77,125.36
+2023-10-10,Electronics,West,48,205.48,156.72
+2023-10-10,Home Appliances,South,27,489.53,280.15
+2023-10-10,Beauty,West,2,108.13,248.0
+2023-10-10,Electronics,North,36,179.55,52.14
+2023-10-10,Books,North,14,346.66,24.68
+2023-10-11,Electronics,South,14,870.88,13.28
+2023-10-11,Home Appliances,South,8,781.58,135.06
+2023-10-11,Electronics,West,41,205.8,247.82
+2023-10-11,Clothing,South,24,813.34,95.94
+2023-10-12,Electronics,South,49,673.92,173.54
+2023-10-12,Books,South,10,509.29,131.8
+2023-10-12,Home Appliances,East,46,499.53,159.19
+2023-10-13,Home Appliances,North,3,274.48,46.41
+2023-10-13,Books,West,47,693.56,63.6
+2023-10-13,Beauty,West,46,676.55,142.8
+2023-10-13,Beauty,South,3,637.17,236.9
+2023-10-13,Beauty,South,19,402.05,18.31
+2023-10-15,Home Appliances,North,32,393.98,113.86
+2023-10-15,Electronics,North,41,849.55,87.77
+2023-10-15,Beauty,North,9,350.07,55.3
+2023-10-16,Beauty,West,16,830.01,126.7
+2023-10-16,Electronics,East,17,395.41,290.04
+2023-10-16,Beauty,North,12,366.9,34.4
+2023-10-16,Books,North,18,672.74,203.29
+2023-10-16,Books,West,41,322.8,162.39
+2023-10-17,Books,South,8,961.82,108.98
+2023-10-17,Beauty,South,41,840.69,73.19
+2023-10-19,Electronics,West,19,719.77,282.75
+2023-10-19,Clothing,West,16,176.59,161.2
+2023-10-20,Clothing,East,21,286.79,245.46
+2023-10-20,Beauty,West,7,107.06,223.13
+2023-10-21,Home Appliances,North,35,417.75,30.33
+2023-10-21,Books,South,31,878.19,126.09
+2023-10-21,Books,North,35,710.03,20.12
+2023-10-21,Books,North,32,498.06,277.51
+2023-10-22,Home Appliances,South,32,926.58,147.92
+2023-10-23,Clothing,West,17,512.2,63.86
+2023-10-25,Home Appliances,East,35,482.71,166.69
+2023-10-26,Home Appliances,South,46,376.1,212.18
+2023-10-27,Books,West,46,346.28,202.28
+2023-10-27,Beauty,East,47,296.39,52.54
+2023-10-28,Beauty,East,8,357.87,183.8
+2023-10-28,Electronics,West,47,604.61,27.82
+2023-10-28,Beauty,North,6,992.2,201.95
+2023-10-29,Beauty,South,20,835.42,75.56
+2023-10-29,Books,East,45,552.37,120.19
+2023-10-30,Clothing,South,45,135.04,221.31
+2023-10-30,Home Appliances,South,43,298.1,250.25
+2023-10-30,Books,South,24,726.54,73.94
+2023-10-30,Books,West,34,250.74,244.95
+2023-10-31,Clothing,West,39,783.1,39.07
+2023-10-31,Home Appliances,East,20,767.71,221.23
+2023-10-31,Books,West,4,862.35,138.41
+2023-10-31,Books,South,49,754.35,98.87
+2023-10-31,Home Appliances,West,17,303.51,99.46
+2023-11-01,Home Appliances,West,12,411.87,173.63
+2023-11-01,Home Appliances,East,6,104.78,21.68
+2023-11-02,Beauty,North,17,805.36,129.13
+2023-11-02,Electronics,North,12,357.18,129.28
+2023-11-02,Books,East,8,736.66,31.09
+2023-11-03,Electronics,North,28,126.25,74.16
+2023-11-03,Home Appliances,East,27,117.39,174.08
+2023-11-04,Clothing,South,30,398.97,228.2
+2023-11-04,Home Appliances,North,47,407.71,263.55
+2023-11-04,Beauty,West,22,968.51,293.95
+2023-11-05,Home Appliances,South,22,525.05,157.86
+2023-11-06,Electronics,South,24,795.83,12.98
+2023-11-06,Electronics,North,15,802.57,130.99
+2023-11-07,Beauty,North,19,434.96,127.54
+2023-11-07,Clothing,West,4,113.6,46.53
+2023-11-07,Clothing,South,45,333.62,174.15
+2023-11-08,Home Appliances,North,13,839.65,175.77
+2023-11-08,Books,West,30,159.91,95.93
+2023-11-08,Beauty,South,41,330.82,133.68
+2023-11-09,Beauty,West,47,787.92,38.54
+2023-11-09,Clothing,East,46,399.21,249.56
+2023-11-10,Clothing,South,23,764.1,129.25
+2023-11-10,Books,South,16,686.48,56.6
+2023-11-10,Home Appliances,South,18,697.8,178.99
+2023-11-11,Home Appliances,North,32,360.0,121.54
+2023-11-11,Beauty,North,37,268.95,253.35
+2023-11-11,Beauty,West,32,425.26,236.75
+2023-11-12,Electronics,South,11,716.9,204.99
+2023-11-12,Clothing,South,45,782.84,271.7
+2023-11-12,Electronics,North,20,108.93,234.82
+2023-11-13,Clothing,West,1,283.13,242.87
+2023-11-13,Home Appliances,North,46,389.05,180.12
+2023-11-13,Clothing,West,40,128.57,236.26
+2023-11-13,Home Appliances,North,20,731.05,238.34
+2023-11-14,Clothing,North,28,540.66,133.97
+2023-11-14,Books,South,22,628.83,226.65
+2023-11-14,Beauty,South,40,755.98,145.34
+2023-11-14,Home Appliances,South,6,434.55,208.32
+2023-11-15,Clothing,West,27,952.06,134.43
+2023-11-15,Electronics,South,2,160.31,146.78
+2023-11-16,Clothing,North,26,534.86,281.02
+2023-11-16,Electronics,South,30,136.05,202.07
+2023-11-16,Books,East,4,441.18,78.71
+2023-11-17,Clothing,West,7,477.34,130.3
+2023-11-17,Home Appliances,South,48,677.56,55.33
+2023-11-18,Electronics,South,9,191.24,297.85
+2023-11-18,Clothing,South,19,934.41,287.32
+2023-11-19,Electronics,East,11,705.43,175.88
+2023-11-19,Home Appliances,South,39,498.29,83.8
+2023-11-19,Electronics,East,40,456.9,24.88
+2023-11-20,Home Appliances,North,43,100.59,106.17
+2023-11-20,Home Appliances,North,25,492.95,40.7
+2023-11-21,Beauty,West,21,854.64,10.32
+2023-11-21,Clothing,South,13,569.3,202.87
+2023-11-21,Electronics,South,29,951.81,62.72
+2023-11-22,Books,North,21,324.7,284.06
+2023-11-22,Clothing,North,9,176.11,85.74
+2023-11-22,Clothing,North,44,398.41,155.7
+2023-11-22,Books,North,47,284.8,280.99
+2023-11-23,Home Appliances,East,10,168.04,177.59
+2023-11-23,Electronics,North,1,162.14,138.19
+2023-11-23,Electronics,West,11,165.77,164.36
+2023-11-24,Books,West,40,361.45,65.28
+2023-11-25,Beauty,South,15,543.58,29.19
+2023-11-26,Electronics,North,16,435.81,243.21
+2023-11-26,Electronics,East,17,776.57,285.65
+2023-11-26,Clothing,North,8,157.61,256.83
+2023-11-27,Clothing,East,36,147.12,59.51
+2023-11-27,Clothing,East,29,621.38,100.54
+2023-11-27,Beauty,East,30,474.2,205.94
+2023-11-27,Books,South,40,699.94,75.69
+2023-11-29,Beauty,North,19,521.26,258.97
+2023-12-01,Electronics,North,12,437.09,150.99
+2023-12-01,Books,South,33,816.33,97.72
+2023-12-01,Clothing,West,5,935.36,297.83
+2023-12-01,Home Appliances,East,16,996.07,125.81
+2023-12-02,Electronics,East,40,626.0,37.38
+2023-12-02,Clothing,South,30,252.76,265.08
+2023-12-03,Clothing,North,20,788.0,101.33
+2023-12-03,Books,North,34,867.29,169.65
+2023-12-04,Clothing,West,47,738.39,99.09
+2023-12-04,Home Appliances,South,38,305.99,111.48
+2023-12-04,Books,South,21,689.19,134.25
+2023-12-04,Electronics,South,43,305.41,36.78
+2023-12-05,Electronics,South,1,759.16,83.17
+2023-12-05,Beauty,North,34,906.11,126.2
+2023-12-06,Books,West,20,986.37,201.26
+2023-12-06,Books,South,8,905.81,40.0
+2023-12-06,Electronics,East,42,796.59,280.63
+2023-12-06,Clothing,North,2,250.62,27.29
+2023-12-06,Electronics,East,48,322.61,210.68
+2023-12-07,Electronics,North,21,338.17,24.83
+2023-12-07,Clothing,West,49,323.54,51.55
+2023-12-07,Books,North,9,607.06,78.71
+2023-12-08,Electronics,North,40,480.46,105.78
+2023-12-08,Books,South,29,773.52,167.0
+2023-12-08,Clothing,South,35,488.82,293.41
+2023-12-08,Home Appliances,East,4,915.48,114.71
+2023-12-08,Beauty,East,4,116.31,122.31
+2023-12-08,Beauty,South,17,784.77,121.01
+2023-12-09,Clothing,West,34,926.42,282.16
+2023-12-10,Home Appliances,West,5,302.84,247.05
+2023-12-10,Electronics,East,7,294.17,24.57
+2023-12-11,Beauty,North,25,455.62,24.39
+2023-12-11,Clothing,East,1,966.49,228.62
+2023-12-12,Electronics,East,11,474.91,82.84
+2023-12-12,Electronics,East,7,709.79,288.83
+2023-12-12,Books,West,34,946.71,280.95
+2023-12-12,Books,South,28,500.99,200.54
+2023-12-12,Clothing,North,23,762.88,210.78
+2023-12-12,Books,West,30,290.11,186.93
+2023-12-12,Home Appliances,East,27,400.27,46.78
+2023-12-13,Clothing,West,13,936.23,79.79
+2023-12-14,Beauty,South,49,450.46,174.1
+2023-12-14,Electronics,East,37,252.89,137.56
+2023-12-14,Electronics,East,42,608.58,83.33
+2023-12-14,Electronics,West,36,826.0,208.45
+2023-12-15,Beauty,West,28,734.38,75.05
+2023-12-15,Clothing,West,44,869.53,222.13
+2023-12-15,Books,East,25,590.05,74.58
+2023-12-15,Home Appliances,East,45,490.62,60.65
+2023-12-15,Home Appliances,North,36,143.37,230.57
+2023-12-16,Electronics,South,11,680.27,197.11
+2023-12-16,Books,South,38,156.15,283.03
+2023-12-16,Home Appliances,North,7,661.28,83.38
+2023-12-16,Clothing,East,44,610.95,156.29
+2023-12-17,Books,North,33,976.77,32.89
+2023-12-17,Electronics,East,21,319.06,288.34
+2023-12-18,Electronics,North,25,983.07,13.14
+2023-12-18,Clothing,South,1,964.83,131.33
+2023-12-18,Books,South,12,829.79,192.65
+2023-12-20,Clothing,North,33,775.85,33.56
+2023-12-21,Books,West,39,598.03,256.49
+2023-12-21,Clothing,West,26,306.43,259.88
+2023-12-21,Home Appliances,West,28,340.66,39.82
+2023-12-21,Home Appliances,East,30,805.38,76.7
+2023-12-22,Home Appliances,East,19,917.59,100.75
+2023-12-23,Books,North,49,324.96,101.42
+2023-12-23,Beauty,North,42,620.93,24.03
+2023-12-23,Home Appliances,East,37,759.46,239.74
+2023-12-24,Clothing,South,48,226.29,34.98
+2023-12-24,Electronics,West,39,135.08,38.42
+2023-12-25,Electronics,North,14,591.92,201.01
+2023-12-25,Beauty,East,3,299.87,105.17
+2023-12-26,Electronics,North,35,817.01,243.58
+2023-12-26,Beauty,East,28,236.44,222.13
+2023-12-26,Beauty,South,26,220.85,152.92
+2023-12-26,Home Appliances,East,5,826.44,266.61
+2023-12-26,Books,South,24,839.96,108.72
+2023-12-26,Beauty,South,1,648.73,70.41
+2023-12-27,Clothing,West,31,160.28,166.68
+2023-12-27,Books,East,28,552.82,66.91
+2023-12-29,Beauty,East,19,828.12,160.24
+2023-12-30,Clothing,West,28,582.09,148.45
+2023-12-30,Beauty,West,18,340.83,227.72
+2023-12-31,Clothing,West,22,873.82,232.1
+2023-12-31,Clothing,South,36,723.12,231.47
+2023-12-31,Beauty,East,37,557.02,266.15
+2023-12-31,Books,West,34,725.14,261.84
+2023-12-31,Clothing,West,4,639.14,231.96
+2023-12-31,Electronics,South,39,393.63,81.59
